@@ -1,5 +1,5 @@
 ---
-title: Hi, I'm Parker!
+title: 
 draft: false
 tags: 
 date: 2024-02-29
