@@ -1,9 +1,13 @@
 ---
-title: Welcome
+title: Hi, I'm Parker!
 draft: false
-tags:
-  - example-tag
-date: YYYY-MM-DD
+tags: 
+date: 2024-02-29
 ---
+Hey, I'm Parker.
 
-Welcome!
+Here are some blog posts of mine:
+- [[This is a blog post]]
+- .
+- .
+- 
