@@ -6,7 +6,7 @@ date: 2024-02-29
 ---
 I'm currently practicing tranquility/insight meditation full-time—seeking the stress global min—and getting a CS degree from ASU. Previously, I did social media for [Volleyball World](https://www.instagram.com/volleyballworld/) and sold a [beach volleyball brand](https://www.instagram.com/bouncebeach/).
 
-I'm interested in philosophizing about memetics, psychotech, insight meditation, productivity, meaning-making, rationality, post-rationality, everything, and nothing.
+I'm interested in philosophizing about insight meditation, productivity, meaning-making, rationality, post-rationality, everything, and nothing.
 
 Some posts:
 - 
